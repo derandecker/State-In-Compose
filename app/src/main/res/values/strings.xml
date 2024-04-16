@@ -12,4 +12,8 @@
   -->
 <resources>
     <string name="app_name">StateCodelab</string>
+    <plurals name="num_of_glasses">
+        <item quantity="one">You\'ve had %s glass.</item>
+        <item quantity="other">You\'ve had %s glasses.</item>
+    </plurals>
 </resources>
